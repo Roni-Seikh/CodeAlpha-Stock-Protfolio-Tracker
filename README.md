@@ -7,8 +7,7 @@ CodeAlpha-Stock-Portfolio-Tracker/
 │   ├── Home Page.png              # Main UI  
 │   ├── Stock Add.png              # Adding a stock  
 │   ├── Stock Remove.png           # Removing a stock  
-│──Stock_Portfolio_Tracker.py
- # Main Python file  
+│── Stock_Portfolio_Tracker.py     # Main Python file  
 │── README.md                      # Project documentation  
 ```
 
